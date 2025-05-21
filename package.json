@@ -2,7 +2,7 @@
   "name": "projeto",
   "version": "1.0.0",
   "description": "servidor de exemplo para turma 148",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "dev": "ts-node-dev ./src/index.ts",
     "start": "node ./src/index.js",
